@@ -2,7 +2,7 @@
 
 - 實作 kNN
     - 用甚麼當作 feature?
-        - avr RGB as feature vec.
+        - avr RGB as feature vec. -> 只有實作這個
         - random sampling avr.
         - boarder slice avr.
 
