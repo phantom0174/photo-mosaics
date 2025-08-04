@@ -1,16 +1,8 @@
-data/
-v/
-used/
-
-result/1.jpg
-result/8.jpg
-
-result_old_metric/
-
 target/1.jpg
-target/8.jpg
+result/1.jpg
 
+data/
 *frames/
-*fit/
+
 
 vid*/
